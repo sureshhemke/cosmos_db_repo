@@ -1,7 +1,7 @@
 # =============================================================================
 # Change the values of these variables as needed.
 # =============================================================================
-
+#Testing
 rg = "rg_lab"  # Resource Group name
 location = "East US   # Azure region for the resources
 
